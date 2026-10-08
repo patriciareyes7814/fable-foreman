@@ -33,3 +33,4 @@ Notes and usage details for fable-foreman.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
